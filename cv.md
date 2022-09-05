@@ -30,11 +30,6 @@ I like to study and want to develop :).
 * GitHub (basic knowledge);
 * Docker (basic knowledge);
 * IDE: Visual Studio Code;
-* Languages:
-  * English (elementary, in progress);
-  * Ukrainian (pre-intermediate);
-  * Russian (second native language);
-  * Belarusian (native language);
 
 ## _Code example_
 
@@ -66,3 +61,10 @@ app.listen(port, () => {
 * IT Academy, "Development of websites using HTML, CSS and JavaScript" [link](https://github.com/VadzimShulepau/myfireplad.by);
 * IT Academy, "Development of web applications on JavaScript" [link](https://github.com/VadzimShulepau/RacingGame);
 * RS School, NodeJS 2022 Q2 [link](https://github.com/VadzimShulepau/nodejs-nestjs).
+
+## _Languages_
+
+* English (elementary, in progress);
+* Ukrainian (pre-intermediate);
+* Russian (second native language);
+* Belarusian (native language);
