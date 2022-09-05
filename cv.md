@@ -61,3 +61,8 @@ app.listen(port, () => {
 })
 ```
 
+## _Courses_
+
+* IT Academy, "Development of websites using HTML, CSS and JavaScript" [link](https://github.com/VadzimShulepau/myfireplad.by);
+* IT Academy, "Development of web applications on JavaScript" [link](https://github.com/VadzimShulepau/RacingGame);
+* RS School, NodeJS 2022 Q2 [link](https://github.com/VadzimShulepau/nodejs-nestjs).
