@@ -1,6 +1,10 @@
-### rsschool-cv
+### [rsschool-cv](https://vadzimshulepau.github.io/rsschool-cv/cv)
 
 # Vadzim Shulepau
+
+*****************************
+
+## _JavaScript/Front-end developer_
 
 *****************************
 
