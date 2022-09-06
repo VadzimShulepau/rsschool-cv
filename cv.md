@@ -4,25 +4,25 @@
 
 *****************************
 
-## _JavaScript/Front-end developer_
+## *JavaScript/Front-end developer*
 
 *****************************
 
-## _Contacts_
+## *Contacts*
 
-__Phone:__ +375 25 618 22 48
+**Phone:** +375 25 618 22 48
 
-__E-mail:__ shulepau.vadzim@gmail.com
+**E-mail:** shulepau.vadzim@gmail.com
 
-__[Linkedin](https://www.linkedin.com/in/vadzim-shulepau)__
+**[Linkedin](https://www.linkedin.com/in/vadzim-shulepau)**
 
-__[GitHub](https://github.com/VadzimShulepau)__
+**[GitHub](https://github.com/VadzimShulepau)**
 
-## _About me_
+## *About me*
 
-I like to study and want to develop :).
+I like to study and want to develop 🙂.
 
-## _Skills_
+## *Skills*
 
 * HTML, CSS, JavaScript;
 * REST API / JSON;
@@ -35,7 +35,7 @@ I like to study and want to develop :).
 * Docker (basic knowledge);
 * IDE: Visual Studio Code;
 
-## _Code example_
+## *Code example*
 
 ```
 import express from 'express';
@@ -60,13 +60,13 @@ app.listen(port, () => {
 })
 ```
 
-## _Courses_
+## *Courses*
 
 * IT Academy, "Development of websites using HTML, CSS and JavaScript" [link](https://github.com/VadzimShulepau/myfireplad.by);
 * IT Academy, "Development of web applications on JavaScript" [link](https://github.com/VadzimShulepau/RacingGame);
 * RS School, NodeJS 2022 Q2 [link](https://github.com/VadzimShulepau/nodejs-nestjs).
 
-## _Languages_
+## *Languages*
 
 * English (elementary, in progress);
 * Ukrainian (pre-intermediate);
