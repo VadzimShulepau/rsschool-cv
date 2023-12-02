@@ -21,11 +21,11 @@
 ### Code example:
 
 ```
-Object.prototype.hash = function(string) {
-  let r = this;
-  for(let i of string.split('.')){
-    if((r = r?.[i]) === undefined) break;
-  }
-  return r;
-}
+Object.prototype.hash = function(string) {  
+  let r = this;  
+  for(let i of string.split('.')){  
+    if((r = r?.[i]) === undefined) break;  
+  }  
+  return r;  
+}  
 ```
