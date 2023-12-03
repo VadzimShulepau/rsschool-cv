@@ -1,1 +1,1 @@
-## [page link](https://vadzimshulepau.github.io/rsschool-cv/);
+## [page link](https://vadzimshulepau.github.io/rsschool-cv/cv);
